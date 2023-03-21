@@ -3,14 +3,10 @@
     <section class="container-home">
       <h1 class="cont-title">home</h1>
       <p class="cont-text">
-        Lorem ipsum, dolor sit amet consectetur adipisicing elit.
-         Ipsam tenetur optio sint possimus sequi deserunt placeat.
-         At, molestias culpa provident illum placeat magnam,
-         accusantium corporis temporibus quibusdam libero nobis ipsa!
-        Lorem ipsum, dolor sit amet consectetur adipisicing elit.
-         Ipsam tenetur optio sint possimus sequi deserunt placeat.
-         At, molestias culpa provident illum placeat magnam,
-         accusantium corporis temporibus quibusdam libero nobis ipsa!
+        Nossa aplicação cria uma curva que representa as possibilidades de produção de dois bens ou serviços. 
+        Essa curva pode ser usada para ajudar a determinar a melhor forma de alocar recursos e maximizar a produção de bens ou
+         serviços.<br>
+        A curva de possibilidade de produção resultante é útil para identificar as combinações mais eficientes de produção de bens e serviços e pode ser usada para tomar decisões importantes de investimento. A aplicação também pode ser utilizada em sala de aula para ajudar os alunos a compreender conceitos de economia e tomada de decisão.
       </p>
     </section>
   </main>
@@ -46,7 +42,7 @@
 .container-home .cont-text {
   font-size: x-large;
   color: var(--font-color);
-  text-align: center;
+  text-align: justify;
   text-shadow: var(--shadow);
 }
 </style>
